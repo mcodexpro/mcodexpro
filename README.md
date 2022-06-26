@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Modassir</h1>
 <h2 align="center">Connecting to Github</h2>
 
-<img align="right" src="./images/pull.png" height="300">
+<img align="right" src="./images/pull.png" height="270">
 <ul>
   <li>👨‍💻 You can check out my Github profile <a href="https://mcodexpro.github.io/">https://mcodexpro.github.io/</a></li>
   <li>✉️ You can send mail me <a href="modassir.dev@gmail.com">modassir.dev@gmail.com</a></li>
@@ -35,5 +35,5 @@
   <h4></h4>
 <div align="right">
   <img src="./images/lang.jpg" width="343" align="left" draggable="false">
-  <img src="./images/code-coding.gif" width="323" draggable="false">
+  <img src="./images/code-coding.gif" width="300" draggable="false">
 </div>
