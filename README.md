@@ -1,4 +1,4 @@
-<img src="./images/banner.png" height="333" style="width:100%" draggable="false">
+<img src="./images/banner.png" height="255" style="width:100%" draggable="false">
 <h1 align="center">Hi 👋, I'm Modassir</h1>
 <h2 align="center">Connecting to Github</h2>
 
