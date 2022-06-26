@@ -6,6 +6,7 @@
   <img src="./images/js.png" width="50" height="50">
   <img src="./images/php.png" width="50" height="50">
   <img src="./images/css.png" width="50" height="50">
+  <img src="./images/ts.svg" width="50" height="50">
 </div>
 
 
