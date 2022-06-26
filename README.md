@@ -1,8 +1,8 @@
-<img src="./images/banner.png" style="width:100%; height: 400px;">
+<img src="./images/code-coding.gif" draggable="false">
 <h1 align="center">Hi 👋, I'm Modassir</h1>
 <h2 align="center">Connecting to Github</h2>
 
-<img align="right" src="./images/pull.png" height="380">
+<img align="right" src="./images/pull.png" height="300">
 <ul>
   <li>👨‍💻 You can check out my Github profile <a href="https://mcodexpro.github.io/">https://mcodexpro.github.io/</a></li>
   <li>✉️ You can send mail me <a href="modassir.dev@gmail.com">modassir.dev@gmail.com</a></li>
@@ -19,16 +19,15 @@
 
 <h2>Most Used Programming Languages<h2>
 <div>
-  <img src="./images/js.png" width="50" height="50">
-  <img src="./images/php.png" width="50" height="50">
-  <img src="./images/css.png" width="50" height="50">
-  <img src="./images/ts.svg" width="50" height="50">
+  <img src="./images/js.png" width="50" height="50" draggable="false">&nbsp;
+  <img src="./images/php.png" width="50" height="50" draggable="false">&nbsp;
+  <img src="./images/css.png" width="50" height="50" draggable="false">&nbsp;
+  <img src="./images/ts.svg" width="50" height="50" draggable="false">&nbsp;
 </div>
-
-
+<br />
 <div>
-  <img src="./images/html.png" width="50" height="50">
-  <img src="./images/database.png" width="50" height="50">
-  <img src="./images/sass.png" width="50" height="50">
-  <img src="./images/json.svg" width="50" height="50">
+  <img src="./images/html.png" width="50" height="50" draggable="false">&nbsp;
+  <img src="./images/database.png" width="50" height="50" draggable="false">&nbsp;
+  <img src="./images/sass.png" width="50" height="50" draggable="false">&nbsp;
+  <img src="./images/json.svg" width="50" height="50" draggable="false">&nbsp;
 </div>
