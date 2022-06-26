@@ -1,4 +1,4 @@
-<img src="./images/code-coding.gif" draggable="false">
+
 <h1 align="center">Hi 👋, I'm Modassir</h1>
 <h2 align="center">Connecting to Github</h2>
 
@@ -30,4 +30,9 @@
   <img src="./images/database.png" width="50" height="50" draggable="false">&nbsp;
   <img src="./images/sass.png" width="50" height="50" draggable="false">&nbsp;
   <img src="./images/json.svg" width="50" height="50" draggable="false">&nbsp;
+</div>
+<br />
+  <h4></h4>
+<div align="right">
+  <img src="./images/code-coding.gif" width="200">
 </div>
