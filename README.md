@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Modassir</h1>
 <h2 align="center">Connecting to Github</h2>
 
-<img align="right" src="./images/pull.png" height="270">
+<img align="right" src="./images/smbanner.png" height="270">
 <ul>
   <li>👨‍💻 You can check out my Github profile <a href="https://mcodexpro.github.io/">https://mcodexpro.github.io/</a></li>
   <li>✉️ You can send mail me <a href="modassir.dev@gmail.com">modassir.dev@gmail.com</a></li>
