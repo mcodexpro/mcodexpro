@@ -5,7 +5,7 @@
 <img align="right" src="./images/smbanner.png" height="270">
 <ul>
   <li>👨‍💻 You can check out my Github profile <a href="https://mcodexpro.github.io/">https://mcodexpro.github.io/</a></li>
-  <li>✉️ You can send mail me <a href="modassir.dev@gmail.com">modassir.dev@gmail.com</a></li>
+  <li>✉️ You can send mail me <a href="mailto:modassir.dev@gmail.com">modassir.dev@gmail.com</a></li>
   <li>🌏 You can visit my mcodexpro website link: <a  href="http://mcodexpro.com/">http://mcodexpro.com/</a>
   <li>⚡ Fact about <strong>I am working on javascript libraries</strong></li>
 </ul>
