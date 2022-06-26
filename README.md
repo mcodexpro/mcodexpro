@@ -34,5 +34,6 @@
 <br />
   <h4></h4>
 <div align="right">
-  <img src="./images/code-coding.gif" width="200">
+  <img src="./images/lang.jpg" width="343" align="left" draggable="false">
+  <img src="./images/code-coding.gif" width="323" draggable="false">
 </div>
