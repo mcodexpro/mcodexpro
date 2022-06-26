@@ -1,4 +1,4 @@
-<img src="./images/banner.png" height="255" style="width:100%" draggable="false">
+<div align="center"><img src="./images/smbanner.svg" width="500" align="center" draggable="false"></div>
 <h1 align="center">Hi 👋, I'm Modassir</h1>
 <h2 align="center">Connecting to Github</h2>
 
@@ -34,6 +34,6 @@
 <br />
   <h4></h4>
 <div align="right">
-  <img src="./images/lang.jpg" width="343" align="left" draggable="false">
-
+  <img src="./images/lang.jpg" width="363" align="left" draggable="false">
+  <img src="./images/codeth.svg" width="343" align="right" draggable="false">
 </div>
